@@ -1,0 +1,501 @@
+product_id,product_name,category,returned_orders,returned_items
+PROD0194,Cookware Product 194,Home & Kitchen,39,110
+PROD0478,Academic Product 478,Books,38,113
+PROD0125,Jewellery Product 125,Accessories,37,103
+PROD0442,Laptops Product 442,Electronics,37,108
+PROD0171,Outdoor Product 171,Sports,36,108
+PROD0094,Ethnic Wear Product 94,Fashion,36,106
+PROD0343,Men Clothing Product 343,Fashion,36,108
+PROD0498,Haircare Product 498,Beauty,36,124
+PROD0220,Makeup Product 220,Beauty,35,102
+PROD0105,Travel Accessories Product 105,Accessories,35,114
+PROD0223,Non Fiction Product 223,Books,35,117
+PROD0024,Skincare Product 24,Beauty,35,97
+PROD0357,Self Help Product 357,Books,35,111
+PROD0451,Storage Product 451,Home & Kitchen,35,99
+PROD0163,Sportswear Product 163,Sports,34,105
+PROD0218,Self Help Product 218,Books,34,104
+PROD0364,Home Decor Product 364,Home & Kitchen,34,111
+PROD0055,Smart Watches Product 55,Electronics,34,109
+PROD0079,Cameras Product 79,Electronics,34,115
+PROD0382,Men Clothing Product 382,Fashion,34,100
+PROD0156,Sportswear Product 156,Sports,34,94
+PROD0496,Headphones Product 496,Electronics,34,105
+PROD0447,Self Help Product 447,Books,34,106
+PROD0065,Accessories Product 65,Fashion,33,116
+PROD0491,Skincare Product 491,Beauty,33,96
+PROD0232,Men Clothing Product 232,Fashion,33,111
+PROD0093,Sportswear Product 93,Sports,33,109
+PROD0140,Sportswear Product 140,Sports,33,106
+PROD0376,Accessories Product 376,Fashion,33,93
+PROD0315,Footwear Product 315,Fashion,33,78
+PROD0051,Fragrances Product 51,Beauty,33,103
+PROD0361,Personal Care Product 361,Beauty,33,107
+PROD0482,Headphones Product 482,Electronics,33,102
+PROD0314,Home Decor Product 314,Home & Kitchen,32,105
+PROD0009,Technology Product 9,Books,32,103
+PROD0006,Team Sports Product 6,Sports,32,101
+PROD0173,Skincare Product 173,Beauty,32,91
+PROD0159,Yoga Product 159,Sports,32,97
+PROD0237,Team Sports Product 237,Sports,32,100
+PROD0216,Bags Product 216,Accessories,32,96
+PROD0347,Smartphones Product 347,Electronics,32,92
+PROD0422,Jewellery Product 422,Accessories,32,90
+PROD0028,Ethnic Wear Product 28,Fashion,32,90
+PROD0032,Men Clothing Product 32,Fashion,32,93
+PROD0363,Furniture Product 363,Home & Kitchen,32,93
+PROD0043,Self Help Product 43,Books,32,91
+PROD0001,Laptops Product 1,Electronics,32,97
+PROD0473,Smartphones Product 473,Electronics,32,93
+PROD0020,Yoga Product 20,Sports,31,97
+PROD0320,Skincare Product 320,Beauty,31,89
+PROD0380,Footwear Product 380,Fashion,31,96
+PROD0419,Fitness Equipment Product 419,Sports,31,95
+PROD0068,Footwear Product 68,Fashion,31,106
+PROD0410,Fitness Equipment Product 410,Sports,31,81
+PROD0394,Outdoor Product 394,Sports,31,91
+PROD0462,Self Help Product 462,Books,31,95
+PROD0008,Technology Product 8,Books,31,85
+PROD0158,Sportswear Product 158,Sports,31,82
+PROD0287,Travel Accessories Product 287,Accessories,31,82
+PROD0298,Kitchen Appliances Product 298,Home & Kitchen,31,83
+PROD0403,Outdoor Product 403,Sports,31,108
+PROD0433,Sunglasses Product 433,Accessories,31,91
+PROD0468,Outdoor Product 468,Sports,31,84
+PROD0487,Self Help Product 487,Books,31,100
+PROD0282,Ethnic Wear Product 282,Fashion,31,90
+PROD0227,Smartphones Product 227,Electronics,31,92
+PROD0225,Yoga Product 225,Sports,31,85
+PROD0087,Technology Product 87,Books,31,92
+PROD0192,Headphones Product 192,Electronics,30,90
+PROD0494,Kitchen Appliances Product 494,Home & Kitchen,30,90
+PROD0146,Team Sports Product 146,Sports,30,63
+PROD0161,Laptops Product 161,Electronics,30,106
+PROD0333,Smartphones Product 333,Electronics,30,85
+PROD0031,Self Help Product 31,Books,30,100
+PROD0023,Headphones Product 23,Electronics,30,94
+PROD0378,Personal Care Product 378,Beauty,30,93
+PROD0240,Yoga Product 240,Sports,30,76
+PROD0288,Personal Care Product 288,Beauty,30,91
+PROD0104,Makeup Product 104,Beauty,30,87
+PROD0236,Cookware Product 236,Home & Kitchen,30,84
+PROD0250,Sunglasses Product 250,Accessories,30,85
+PROD0274,Sportswear Product 274,Sports,30,73
+PROD0255,Smartphones Product 255,Electronics,30,90
+PROD0258,Smart Watches Product 258,Electronics,30,76
+PROD0243,Outdoor Product 243,Sports,30,82
+PROD0245,Smart Watches Product 245,Electronics,30,97
+PROD0277,Personal Care Product 277,Beauty,30,104
+PROD0393,Kitchen Appliances Product 393,Home & Kitchen,30,92
+PROD0010,Cameras Product 10,Electronics,30,96
+PROD0136,Women Clothing Product 136,Fashion,30,96
+PROD0166,Accessories Product 166,Fashion,30,101
+PROD0199,Yoga Product 199,Sports,30,104
+PROD0191,Fiction Product 191,Books,30,91
+PROD0174,Personal Care Product 174,Beauty,30,95
+PROD0279,Team Sports Product 279,Sports,30,86
+PROD0375,Outdoor Product 375,Sports,29,79
+PROD0416,Men Clothing Product 416,Fashion,29,88
+PROD0039,Haircare Product 39,Beauty,29,95
+PROD0424,Men Clothing Product 424,Fashion,29,101
+PROD0499,Accessories Product 499,Fashion,29,73
+PROD0474,Ethnic Wear Product 474,Fashion,29,99
+PROD0465,Fitness Equipment Product 465,Sports,29,98
+PROD0044,Fragrances Product 44,Beauty,29,89
+PROD0063,Non Fiction Product 63,Books,29,95
+PROD0334,Headphones Product 334,Electronics,29,80
+PROD0335,Sportswear Product 335,Sports,29,100
+PROD0080,Kitchen Appliances Product 80,Home & Kitchen,29,92
+PROD0336,Footwear Product 336,Fashion,29,86
+PROD0344,Fragrances Product 344,Beauty,29,70
+PROD0358,Women Clothing Product 358,Fashion,29,81
+PROD0278,Wallets Product 278,Accessories,29,86
+PROD0096,Home Decor Product 96,Home & Kitchen,29,75
+PROD0214,Personal Care Product 214,Beauty,29,105
+PROD0221,Accessories Product 221,Fashion,29,85
+PROD0207,Men Clothing Product 207,Fashion,29,77
+PROD0201,Bags Product 201,Accessories,29,88
+PROD0128,Personal Care Product 128,Beauty,29,92
+PROD0149,Cameras Product 149,Electronics,29,79
+PROD0135,Self Help Product 135,Books,29,83
+PROD0490,Skincare Product 490,Beauty,29,84
+PROD0392,Home Decor Product 392,Home & Kitchen,28,74
+PROD0458,Sunglasses Product 458,Accessories,28,90
+PROD0455,Footwear Product 455,Fashion,28,74
+PROD0454,Smartphones Product 454,Electronics,28,76
+PROD0360,Non Fiction Product 360,Books,28,91
+PROD0054,Smart Watches Product 54,Electronics,28,95
+PROD0367,Smart Watches Product 367,Electronics,28,64
+PROD0371,Team Sports Product 371,Sports,28,81
+PROD0285,Men Clothing Product 285,Fashion,28,66
+PROD0436,Fragrances Product 436,Beauty,28,83
+PROD0497,Personal Care Product 497,Beauty,28,83
+PROD0251,Smartphones Product 251,Electronics,28,74
+PROD0138,Jewellery Product 138,Accessories,28,92
+PROD0316,Furniture Product 316,Home & Kitchen,28,88
+PROD0312,Fitness Equipment Product 312,Sports,28,103
+PROD0155,Yoga Product 155,Sports,28,81
+PROD0306,Headphones Product 306,Electronics,28,89
+PROD0076,Cookware Product 76,Home & Kitchen,28,74
+PROD0340,Wallets Product 340,Accessories,28,86
+PROD0317,Technology Product 317,Books,28,93
+PROD0332,Fragrances Product 332,Beauty,28,91
+PROD0041,Team Sports Product 41,Sports,28,89
+PROD0038,Skincare Product 38,Beauty,28,87
+PROD0362,Kitchen Appliances Product 362,Home & Kitchen,28,83
+PROD0212,Cameras Product 212,Electronics,28,73
+PROD0270,Accessories Product 270,Fashion,28,88
+PROD0423,Footwear Product 423,Fashion,28,88
+PROD0047,Footwear Product 47,Fashion,28,91
+PROD0247,Footwear Product 247,Fashion,28,84
+PROD0464,Yoga Product 464,Sports,28,81
+PROD0029,Skincare Product 29,Beauty,28,101
+PROD0017,Jewellery Product 17,Accessories,28,78
+PROD0457,Self Help Product 457,Books,27,81
+PROD0467,Smartphones Product 467,Electronics,27,78
+PROD0396,Academic Product 396,Books,27,72
+PROD0152,Furniture Product 152,Home & Kitchen,27,80
+PROD0157,Cameras Product 157,Electronics,27,85
+PROD0359,Accessories Product 359,Fashion,27,91
+PROD0116,Non Fiction Product 116,Books,27,84
+PROD0350,Non Fiction Product 350,Books,27,79
+PROD0130,Makeup Product 130,Beauty,27,82
+PROD0172,Storage Product 172,Home & Kitchen,27,89
+PROD0302,Fitness Equipment Product 302,Sports,27,89
+PROD0326,Bags Product 326,Accessories,27,88
+PROD0134,Smartphones Product 134,Electronics,27,81
+PROD0385,Makeup Product 385,Beauty,27,87
+PROD0388,Fitness Equipment Product 388,Sports,27,83
+PROD0383,Cameras Product 383,Electronics,27,88
+PROD0056,Jewellery Product 56,Accessories,27,81
+PROD0366,Accessories Product 366,Fashion,27,89
+PROD0060,Sportswear Product 60,Sports,27,95
+PROD0268,Furniture Product 268,Home & Kitchen,27,85
+PROD0095,Furniture Product 95,Home & Kitchen,27,86
+PROD0263,Men Clothing Product 263,Fashion,27,85
+PROD0260,Fragrances Product 260,Beauty,27,86
+PROD0049,Non Fiction Product 49,Books,27,90
+PROD0088,Men Clothing Product 88,Fashion,27,80
+PROD0241,Headphones Product 241,Electronics,27,77
+PROD0195,Technology Product 195,Books,27,86
+PROD0188,Storage Product 188,Home & Kitchen,27,75
+PROD0187,Skincare Product 187,Beauty,27,83
+PROD0246,Sportswear Product 246,Sports,27,85
+PROD0219,Cameras Product 219,Electronics,27,86
+PROD0090,Jewellery Product 90,Accessories,27,85
+PROD0101,Smartphones Product 101,Electronics,27,85
+PROD0449,Technology Product 449,Books,27,85
+PROD0446,Personal Care Product 446,Beauty,27,97
+PROD0224,Academic Product 224,Books,27,75
+PROD0133,Team Sports Product 133,Sports,27,86
+PROD0018,Smartphones Product 18,Electronics,27,91
+PROD0002,Outdoor Product 2,Sports,27,94
+PROD0500,Laptops Product 500,Electronics,27,76
+PROD0025,Jewellery Product 25,Accessories,26,87
+PROD0209,Outdoor Product 209,Sports,26,68
+PROD0203,Ethnic Wear Product 203,Fashion,26,82
+PROD0448,Team Sports Product 448,Sports,26,68
+PROD0450,Haircare Product 450,Beauty,26,76
+PROD0492,Cameras Product 492,Electronics,26,65
+PROD0193,Cookware Product 193,Home & Kitchen,26,71
+PROD0110,Jewellery Product 110,Accessories,26,81
+PROD0113,Self Help Product 113,Books,26,97
+PROD0266,Jewellery Product 266,Accessories,26,77
+PROD0273,Technology Product 273,Books,26,80
+PROD0428,Men Clothing Product 428,Fashion,26,78
+PROD0182,Jewellery Product 182,Accessories,26,77
+PROD0256,Accessories Product 256,Fashion,26,70
+PROD0427,Bags Product 427,Accessories,26,71
+PROD0370,Furniture Product 370,Home & Kitchen,26,77
+PROD0374,Kitchen Appliances Product 374,Home & Kitchen,26,88
+PROD0391,Fitness Equipment Product 391,Sports,26,72
+PROD0036,Fiction Product 36,Books,26,81
+PROD0325,Smartphones Product 325,Electronics,26,69
+PROD0198,Fitness Equipment Product 198,Sports,26,69
+PROD0313,Cameras Product 313,Electronics,26,79
+PROD0150,Wallets Product 150,Accessories,26,93
+PROD0406,Haircare Product 406,Beauty,26,84
+PROD0475,Bags Product 475,Accessories,26,75
+PROD0348,Smartphones Product 348,Electronics,26,77
+PROD0123,Wallets Product 123,Accessories,26,88
+PROD0384,Haircare Product 384,Beauty,26,64
+PROD0386,Smartphones Product 386,Electronics,26,68
+PROD0369,Fiction Product 369,Books,26,72
+PROD0368,Cookware Product 368,Home & Kitchen,26,80
+PROD0167,Travel Accessories Product 167,Accessories,26,76
+PROD0289,Academic Product 289,Books,26,79
+PROD0165,Team Sports Product 165,Sports,26,68
+PROD0452,Technology Product 452,Books,25,86
+PROD0441,Fragrances Product 441,Beauty,25,87
+PROD0196,Accessories Product 196,Fashion,25,77
+PROD0091,Sunglasses Product 91,Accessories,25,91
+PROD0204,Kitchen Appliances Product 204,Home & Kitchen,25,83
+PROD0183,Fitness Equipment Product 183,Sports,25,82
+PROD0267,Fitness Equipment Product 267,Sports,25,72
+PROD0176,Self Help Product 176,Books,25,95
+PROD0300,Kitchen Appliances Product 300,Home & Kitchen,25,76
+PROD0319,Home Decor Product 319,Home & Kitchen,25,80
+PROD0067,Cameras Product 67,Electronics,25,77
+PROD0324,Yoga Product 324,Sports,25,74
+PROD0418,Jewellery Product 418,Accessories,25,77
+PROD0045,Men Clothing Product 45,Fashion,25,85
+PROD0075,Headphones Product 75,Electronics,25,75
+PROD0308,Kitchen Appliances Product 308,Home & Kitchen,25,71
+PROD0057,Headphones Product 57,Electronics,25,70
+PROD0042,Team Sports Product 42,Sports,25,75
+PROD0339,Academic Product 339,Books,25,80
+PROD0387,Sunglasses Product 387,Accessories,25,80
+PROD0292,Makeup Product 292,Beauty,25,86
+PROD0098,Furniture Product 98,Home & Kitchen,25,84
+PROD0272,Travel Accessories Product 272,Accessories,25,79
+PROD0228,Travel Accessories Product 228,Accessories,25,70
+PROD0226,Women Clothing Product 226,Fashion,25,72
+PROD0089,Men Clothing Product 89,Fashion,25,72
+PROD0440,Women Clothing Product 440,Fashion,25,79
+PROD0295,Wallets Product 295,Accessories,25,74
+PROD0014,Non Fiction Product 14,Books,25,63
+PROD0463,Women Clothing Product 463,Fashion,25,73
+PROD0122,Storage Product 122,Home & Kitchen,25,76
+PROD0402,Women Clothing Product 402,Fashion,25,76
+PROD0147,Wallets Product 147,Accessories,25,76
+PROD0145,Furniture Product 145,Home & Kitchen,25,84
+PROD0342,Bags Product 342,Accessories,25,77
+PROD0398,Makeup Product 398,Beauty,25,86
+PROD0401,Smart Watches Product 401,Electronics,25,60
+PROD0058,Team Sports Product 58,Sports,25,79
+PROD0453,Makeup Product 453,Beauty,24,74
+PROD0050,Footwear Product 50,Fashion,24,82
+PROD0265,Technology Product 265,Books,24,67
+PROD0107,Team Sports Product 107,Sports,24,61
+PROD0254,Accessories Product 254,Fashion,24,75
+PROD0235,Haircare Product 235,Beauty,24,72
+PROD0296,Kitchen Appliances Product 296,Home & Kitchen,24,65
+PROD0264,Outdoor Product 264,Sports,24,69
+PROD0432,Makeup Product 432,Beauty,24,64
+PROD0293,Yoga Product 293,Sports,24,76
+PROD0083,Smart Watches Product 83,Electronics,24,78
+PROD0084,Bags Product 84,Accessories,24,61
+PROD0189,Furniture Product 189,Home & Kitchen,24,86
+PROD0129,Haircare Product 129,Beauty,24,67
+PROD0069,Bags Product 69,Accessories,24,75
+PROD0283,Haircare Product 283,Beauty,24,73
+PROD0299,Kitchen Appliances Product 299,Home & Kitchen,24,74
+PROD0059,Storage Product 59,Home & Kitchen,24,71
+PROD0124,Jewellery Product 124,Accessories,24,70
+PROD0127,Sportswear Product 127,Sports,24,71
+PROD0151,Storage Product 151,Home & Kitchen,24,73
+PROD0121,Home Decor Product 121,Home & Kitchen,24,74
+PROD0126,Team Sports Product 126,Sports,24,75
+PROD0472,Men Clothing Product 472,Fashion,24,78
+PROD0131,Academic Product 131,Books,24,82
+PROD0206,Cookware Product 206,Home & Kitchen,24,70
+PROD0210,Sportswear Product 210,Sports,24,60
+PROD0439,Cookware Product 439,Home & Kitchen,24,82
+PROD0426,Footwear Product 426,Fashion,24,71
+PROD0485,Smart Watches Product 485,Electronics,24,80
+PROD0483,Women Clothing Product 483,Fashion,24,75
+PROD0444,Academic Product 444,Books,24,63
+PROD0033,Kitchen Appliances Product 33,Home & Kitchen,24,76
+PROD0168,Bags Product 168,Accessories,24,71
+PROD0073,Footwear Product 73,Fashion,24,78
+PROD0074,Skincare Product 74,Beauty,24,65
+PROD0307,Outdoor Product 307,Sports,24,79
+PROD0351,Men Clothing Product 351,Fashion,24,61
+PROD0412,Ethnic Wear Product 412,Fashion,24,84
+PROD0329,Headphones Product 329,Electronics,24,74
+PROD0322,Laptops Product 322,Electronics,24,78
+PROD0169,Headphones Product 169,Electronics,24,78
+PROD0142,Skincare Product 142,Beauty,23,74
+PROD0141,Fiction Product 141,Books,23,72
+PROD0139,Wallets Product 139,Accessories,23,68
+PROD0034,Non Fiction Product 34,Books,23,70
+PROD0415,Academic Product 415,Books,23,70
+PROD0061,Storage Product 61,Home & Kitchen,23,60
+PROD0377,Fiction Product 377,Books,23,64
+PROD0330,Accessories Product 330,Fashion,23,60
+PROD0077,Women Clothing Product 77,Fashion,23,67
+PROD0309,Non Fiction Product 309,Books,23,68
+PROD0311,Academic Product 311,Books,23,79
+PROD0341,Self Help Product 341,Books,23,69
+PROD0408,Laptops Product 408,Electronics,23,66
+PROD0477,Women Clothing Product 477,Fashion,23,68
+PROD0143,Furniture Product 143,Home & Kitchen,23,64
+PROD0117,Cookware Product 117,Home & Kitchen,23,74
+PROD0328,Non Fiction Product 328,Books,23,75
+PROD0082,Travel Accessories Product 82,Accessories,23,73
+PROD0331,Kitchen Appliances Product 331,Home & Kitchen,23,59
+PROD0414,Non Fiction Product 414,Books,23,67
+PROD0413,Kitchen Appliances Product 413,Home & Kitchen,23,80
+PROD0352,Smart Watches Product 352,Electronics,23,85
+PROD0276,Sunglasses Product 276,Accessories,23,75
+PROD0275,Cookware Product 275,Home & Kitchen,23,73
+PROD0429,Smartphones Product 429,Electronics,23,70
+PROD0102,Footwear Product 102,Fashion,23,69
+PROD0244,Home Decor Product 244,Home & Kitchen,23,62
+PROD0072,Home Decor Product 72,Home & Kitchen,23,66
+PROD0213,Smartphones Product 213,Electronics,23,75
+PROD0222,Home Decor Product 222,Home & Kitchen,23,64
+PROD0086,Fragrances Product 86,Beauty,23,74
+PROD0437,Fitness Equipment Product 437,Sports,23,60
+PROD0186,Women Clothing Product 186,Fashion,23,65
+PROD0190,Men Clothing Product 190,Fashion,23,76
+PROD0019,Storage Product 19,Home & Kitchen,23,70
+PROD0488,Home Decor Product 488,Home & Kitchen,23,78
+PROD0099,Women Clothing Product 99,Fashion,23,74
+PROD0005,Storage Product 5,Home & Kitchen,23,74
+PROD0489,Personal Care Product 489,Beauty,23,70
+PROD0178,Men Clothing Product 178,Fashion,23,72
+PROD0177,Fitness Equipment Product 177,Sports,23,88
+PROD0208,Sunglasses Product 208,Accessories,22,62
+PROD0493,Team Sports Product 493,Sports,22,68
+PROD0011,Self Help Product 11,Books,22,70
+PROD0003,Travel Accessories Product 3,Accessories,22,65
+PROD0021,Ethnic Wear Product 21,Fashion,22,54
+PROD0217,Furniture Product 217,Home & Kitchen,22,70
+PROD0242,Makeup Product 242,Beauty,22,65
+PROD0106,Headphones Product 106,Electronics,22,68
+PROD0253,Footwear Product 253,Fashion,22,71
+PROD0238,Technology Product 238,Books,22,65
+PROD0425,Men Clothing Product 425,Fashion,22,66
+PROD0269,Outdoor Product 269,Sports,22,73
+PROD0294,Fitness Equipment Product 294,Sports,22,60
+PROD0291,Men Clothing Product 291,Fashion,22,56
+PROD0471,Non Fiction Product 471,Books,22,60
+PROD0456,Smart Watches Product 456,Electronics,22,76
+PROD0399,Footwear Product 399,Fashion,22,52
+PROD0154,Smart Watches Product 154,Electronics,22,68
+PROD0407,Team Sports Product 407,Sports,22,59
+PROD0118,Women Clothing Product 118,Fashion,22,55
+PROD0160,Men Clothing Product 160,Fashion,22,68
+PROD0119,Smartphones Product 119,Electronics,22,62
+PROD0476,Academic Product 476,Books,22,76
+PROD0137,Jewellery Product 137,Accessories,22,71
+PROD0349,Laptops Product 349,Electronics,22,70
+PROD0175,Bags Product 175,Accessories,22,59
+PROD0071,Footwear Product 71,Fashion,22,82
+PROD0321,Home Decor Product 321,Home & Kitchen,22,68
+PROD0301,Fiction Product 301,Books,22,64
+PROD0040,Storage Product 40,Home & Kitchen,22,58
+PROD0179,Kitchen Appliances Product 179,Home & Kitchen,22,66
+PROD0284,Bags Product 284,Accessories,22,66
+PROD0443,Skincare Product 443,Beauty,21,67
+PROD0205,Fragrances Product 205,Beauty,21,56
+PROD0026,Men Clothing Product 26,Fashion,21,62
+PROD0459,Team Sports Product 459,Sports,21,59
+PROD0022,Travel Accessories Product 22,Accessories,21,57
+PROD0495,Bags Product 495,Accessories,21,66
+PROD0484,Smart Watches Product 484,Electronics,21,69
+PROD0234,Footwear Product 234,Fashion,21,59
+PROD0108,Technology Product 108,Books,21,64
+PROD0085,Fragrances Product 85,Beauty,21,62
+PROD0438,Sunglasses Product 438,Accessories,21,63
+PROD0092,Furniture Product 92,Home & Kitchen,21,67
+PROD0248,Headphones Product 248,Electronics,21,60
+PROD0421,Home Decor Product 421,Home & Kitchen,21,57
+PROD0470,Headphones Product 470,Electronics,21,65
+PROD0397,Accessories Product 397,Fashion,21,67
+PROD0064,Footwear Product 64,Fashion,21,55
+PROD0373,Cookware Product 373,Home & Kitchen,21,66
+PROD0016,Storage Product 16,Home & Kitchen,21,65
+PROD0480,Women Clothing Product 480,Fashion,21,60
+PROD0062,Outdoor Product 62,Sports,21,65
+PROD0052,Technology Product 52,Books,21,71
+PROD0345,Technology Product 345,Books,21,68
+PROD0286,Cookware Product 286,Home & Kitchen,21,70
+PROD0180,Headphones Product 180,Electronics,21,62
+PROD0290,Outdoor Product 290,Sports,21,61
+PROD0323,Technology Product 323,Books,21,50
+PROD0037,Fragrances Product 37,Beauty,21,65
+PROD0355,Home Decor Product 355,Home & Kitchen,21,72
+PROD0481,Accessories Product 481,Fashion,20,64
+PROD0261,Fiction Product 261,Books,20,70
+PROD0103,Storage Product 103,Home & Kitchen,20,57
+PROD0097,Laptops Product 97,Electronics,20,75
+PROD0185,Headphones Product 185,Electronics,20,54
+PROD0231,Footwear Product 231,Fashion,20,64
+PROD0112,Men Clothing Product 112,Fashion,20,61
+PROD0007,Personal Care Product 7,Beauty,20,57
+PROD0012,Haircare Product 12,Beauty,20,66
+PROD0353,Personal Care Product 353,Beauty,20,62
+PROD0356,Self Help Product 356,Books,20,68
+PROD0411,Self Help Product 411,Books,20,59
+PROD0070,Ethnic Wear Product 70,Fashion,20,59
+PROD0202,Fitness Equipment Product 202,Sports,20,70
+PROD0389,Storage Product 389,Home & Kitchen,20,75
+PROD0379,Ethnic Wear Product 379,Fashion,20,72
+PROD0144,Travel Accessories Product 144,Accessories,20,62
+PROD0486,Personal Care Product 486,Beauty,19,43
+PROD0395,Outdoor Product 395,Sports,19,52
+PROD0469,Makeup Product 469,Beauty,19,52
+PROD0405,Travel Accessories Product 405,Accessories,19,64
+PROD0271,Smartphones Product 271,Electronics,19,45
+PROD0430,Laptops Product 430,Electronics,19,58
+PROD0048,Personal Care Product 48,Beauty,19,60
+PROD0078,Cameras Product 78,Electronics,19,57
+PROD0409,Laptops Product 409,Electronics,19,46
+PROD0381,Fragrances Product 381,Beauty,19,41
+PROD0365,Haircare Product 365,Beauty,19,55
+PROD0215,Smartphones Product 215,Electronics,19,63
+PROD0181,Academic Product 181,Books,19,55
+PROD0120,Furniture Product 120,Home & Kitchen,19,56
+PROD0013,Sunglasses Product 13,Accessories,19,68
+PROD0164,Technology Product 164,Books,19,54
+PROD0114,Headphones Product 114,Electronics,19,57
+PROD0233,Furniture Product 233,Home & Kitchen,19,54
+PROD0046,Sportswear Product 46,Sports,19,64
+PROD0249,Jewellery Product 249,Accessories,19,56
+PROD0434,Men Clothing Product 434,Fashion,19,62
+PROD0435,Furniture Product 435,Home & Kitchen,19,54
+PROD0100,Bags Product 100,Accessories,19,54
+PROD0109,Cookware Product 109,Home & Kitchen,19,59
+PROD0252,Technology Product 252,Books,19,58
+PROD0027,Self Help Product 27,Books,18,56
+PROD0445,Yoga Product 445,Sports,18,50
+PROD0015,Haircare Product 15,Beauty,18,52
+PROD0170,Headphones Product 170,Electronics,18,42
+PROD0153,Academic Product 153,Books,18,58
+PROD0200,Travel Accessories Product 200,Accessories,18,59
+PROD0162,Laptops Product 162,Electronics,18,51
+PROD0420,Men Clothing Product 420,Fashion,18,55
+PROD0259,Jewellery Product 259,Accessories,18,53
+PROD0281,Skincare Product 281,Beauty,18,56
+PROD0431,Headphones Product 431,Electronics,18,43
+PROD0318,Haircare Product 318,Beauty,18,48
+PROD0304,Smart Watches Product 304,Electronics,18,55
+PROD0338,Yoga Product 338,Sports,18,46
+PROD0035,Cameras Product 35,Electronics,18,56
+PROD0327,Sportswear Product 327,Sports,18,55
+PROD0417,Home Decor Product 417,Home & Kitchen,18,53
+PROD0372,Bags Product 372,Accessories,18,56
+PROD0257,Technology Product 257,Books,18,49
+PROD0280,Laptops Product 280,Electronics,18,55
+PROD0310,Non Fiction Product 310,Books,18,62
+PROD0230,Headphones Product 230,Electronics,18,54
+PROD0111,Skincare Product 111,Beauty,18,50
+PROD0404,Footwear Product 404,Fashion,17,41
+PROD0030,Accessories Product 30,Fashion,17,49
+PROD0479,Sportswear Product 479,Sports,17,47
+PROD0053,Fragrances Product 53,Beauty,17,49
+PROD0115,Personal Care Product 115,Beauty,17,43
+PROD0461,Ethnic Wear Product 461,Fashion,17,48
+PROD0305,Smartphones Product 305,Electronics,17,52
+PROD0239,Headphones Product 239,Electronics,17,54
+PROD0148,Bags Product 148,Accessories,16,49
+PROD0390,Travel Accessories Product 390,Accessories,16,46
+PROD0197,Smart Watches Product 197,Electronics,16,57
+PROD0337,Bags Product 337,Accessories,16,42
+PROD0346,Cookware Product 346,Home & Kitchen,16,55
+PROD0184,Laptops Product 184,Electronics,16,39
+PROD0132,Academic Product 132,Books,15,39
+PROD0466,Smart Watches Product 466,Electronics,15,42
+PROD0262,Outdoor Product 262,Sports,15,38
+PROD0303,Ethnic Wear Product 303,Fashion,15,46
+PROD0460,Fragrances Product 460,Beauty,15,44
+PROD0297,Technology Product 297,Books,14,44
+PROD0066,Fitness Equipment Product 66,Sports,14,38
+PROD0354,Jewellery Product 354,Accessories,14,40
+PROD0081,Skincare Product 81,Beauty,14,50
+PROD0229,Skincare Product 229,Beauty,14,33
+PROD0211,Jewellery Product 211,Accessories,14,47
+PROD0400,Women Clothing Product 400,Fashion,11,34
+PROD0004,Bags Product 4,Accessories,11,35
